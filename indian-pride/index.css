@@ -4,6 +4,11 @@ body{
 
 }
 
+.wonder{
+color: green;
+font-family: "roboto";
+font-weight: 400;
+}
 .box{
     display: flex;
     flex-direction: column;
